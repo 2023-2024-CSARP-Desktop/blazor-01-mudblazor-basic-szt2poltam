@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreata.Web.Server", "Kreata.Web\Server\Kreata.Web.Server.csproj", "{D39DEDF6-D51E-4227-9916-5327C05B21B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreata.Web.Server", "Kreata.Web\Server\Kreata.Web.Server.csproj", "{D39DEDF6-D51E-4227-9916-5327C05B21B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreata.Web.Client", "Kreata.Web\Client\Kreata.Web.Client.csproj", "{930825FA-B899-42F9-BB84-AA23235083BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreata.Web.Client", "Kreata.Web\Client\Kreata.Web.Client.csproj", "{930825FA-B899-42F9-BB84-AA23235083BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreata.Web.Shared", "Kreata.Web\Shared\Kreata.Web.Shared.csproj", "{22875507-3809-427A-928E-8275C98EC029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreata.Web.Shared", "Kreata.Web\Shared\Kreata.Web.Shared.csproj", "{22875507-3809-427A-928E-8275C98EC029}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
